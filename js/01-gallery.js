@@ -47,7 +47,6 @@ function onClickImegesItem(ev) {
 
   function onEsc(ev) {
     if (ev.code === "Escape") {
-      console.log("qeqwe");
       instance.close();
     }
   }
